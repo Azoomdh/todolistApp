@@ -1,0 +1,11 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "\"To Do List\" là một ứng dụng web giúp người dùng tạo và quản lý các nhiệm vụ hàng ngày của mình một cách dễ dàng. Ứng dụng cho phép lưu trữ dữ liệu trên máy tính cục bộ, tùy chỉnh thông tin cá nhân, và quản lý các task bằng cách thêm, sửa, xóa. Bên cạnh đó, ứng dụng cung cấp các tính năng phân loại task thành các danh mục như \"Quan Trọng\" và \"Đã Hoàn Thành\" để người dùng dễ dàng theo dõi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
